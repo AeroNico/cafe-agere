@@ -7,7 +7,7 @@
 .info__text {
   float:left;
   width:30%;
-  padding:50px 40px 0 50px;
+  padding:10vh 5%;
   box-sizing: border-box;
 }
 
@@ -28,7 +28,7 @@
   width: 35%;
   height: 35vh;
   top: 95vh;
-  left: 25%;
+  left: 27%;
   object-fit: cover;
 }
 
@@ -38,11 +38,11 @@
 }
 
 .info__img-img1 {
-  width: 120px;
-      height: 200px;
+  width: 8%;
+      height: 30vh;
       object-fit: cover;
       position: absolute;
-      left: 950px;
+      left: 66%;
       z-index: 1;
 }
 
