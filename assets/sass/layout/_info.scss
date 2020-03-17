@@ -1,0 +1,53 @@
+.info {
+  width:100%;
+  height:40vh;
+  box-sizing: border-box;
+}
+
+.info__text {
+  float:left;
+  width:30%;
+  padding:50px 40px 0 50px;
+  box-sizing: border-box;
+}
+
+.info__text h3 {
+  margin-bottom:20px;
+}
+
+.info__map {
+  float:left;
+  width:40%;
+  height:40vh;
+  background-color:$bluefrance;
+}
+
+.info__map-img {
+  position: absolute;
+  z-index: 1;
+  width: 500px;
+  height: 250px;
+  top: 650px;
+  left: 380px;
+  object-fit: cover;
+}
+
+.info__img {
+  float:left;
+  width:30%;
+}
+
+.info__img-img1 {
+  width: 120px;
+      height: 200px;
+      object-fit: cover;
+      position: absolute;
+      left: 950px;
+      z-index: 1;
+}
+
+.info__img-img2 {
+  width:100%;
+  height:47vh;
+  object-fit: cover;
+}

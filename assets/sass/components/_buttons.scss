@@ -1,0 +1,25 @@
+.btn-1 {
+  border:1px solid $quicksilver;
+  font-family: $ptmono;
+  padding: 10px;
+  font-size:$medium;
+  color:$quicksilver;
+  &:hover {
+    color:$black;
+    border:1px solid $black;
+  }
+}
+
+.btn-2 {
+  border:1px solid $shinrock;
+  background-color: $shinrock;
+  font-family:$ptmono;
+  padding: 10px;
+  font-size: $medium;
+  color:$white;
+  &:hover {
+    border:1px solid $turqgreen;
+    background-color: $turqgreen;
+    color:$outerspace;
+  }
+}
