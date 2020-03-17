@@ -29,8 +29,8 @@
 
 .header__numbers {
   position: absolute;
-  width: 550px;
-  height: 131px;
+  width: 40%;
+  height: 19vh;
   background-color: $white;
   z-index: 1;
   left: 30%;
@@ -39,6 +39,7 @@
 
 .header__numbers li {
   width: 33%;
+  height: 19vh;
   padding: 25px;
   box-sizing: border-box;
   float: left;
@@ -50,7 +51,7 @@
   height: 131px;
   position: absolute;
   z-index: 1;
-  left: 68%;
+  left: 70%;
   top: 67vh;
 }
 
@@ -60,8 +61,8 @@
   height: 130px;
   position: absolute;
   z-index: 2;
-  left: -25px;
-  top: -25px;
+  left: -20px;
+  top: -20px;
   color: white;
 }
 
